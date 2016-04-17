@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ICare</string>
+    <!--Button Text-->
+    <string name="signUp_Bt">Sign Up</string>
+    <!--EditText Hints-->
+    <string name="password_ht">Password</string>
+    <!--TextField -->
+    <string name="welcome_tx">Welcome</string>
+    <string name="to_tx">To</string>
+    <string name="icare_tx">ICare System</string>
+</resources>
